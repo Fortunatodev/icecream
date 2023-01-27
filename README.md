@@ -14,7 +14,7 @@ Tarefa promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto IceCream" src="https://i.ibb.co/kgt6jhD/icecream.png" width="100%">
+  <img alt="projeto IceCream" src="https://i.ibb.co/82dWcMr/Screenshot-3.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
